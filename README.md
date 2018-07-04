@@ -7,8 +7,11 @@ Luong attention and Bahdanau attention
 
 
 <img src="/Images/white.png" alt="My cool logo"/>
-<img src="/Images/alignments.png" alt="My cool logo"/>
 
 <img src="/Images/attention-mechanisms.png" alt="My cool logo"/>
+ 
+<img src="/Images/alignments.png" alt="My cool logo"/>
 
 
+
+#Images source : http://cnyah.com/2017/08/01/attention-variants/
