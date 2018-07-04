@@ -6,7 +6,7 @@ Luong attention and Bahdanau attention
 
 
 
-<img src="/Images/diff.png" alt="My cool logo"/>
+<img src="/Images/white.png" alt="My cool logo"/>
 <img src="/Images/alignments.png" alt="My cool logo"/>
 
 <img src="/Images/attention-mechanisms.png" alt="My cool logo"/>
