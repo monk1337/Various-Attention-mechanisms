@@ -69,3 +69,4 @@ def multihead_attention(queries,
         # layer normaliztion
         outputs = layer_normalization(outputs)
         return outputs
+# https://github.com/TobiasLee/Text-Classification/blob/master/models/modules/multihead.py
