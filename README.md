@@ -12,7 +12,7 @@ Luong attention and Bahdanau attention
  
 <img src="/Images/alignments.png" alt="My cool logo"/>
 
-# working on an attetion module for tensorflow where you can just import the attention, check it out and contribute :
+#### working on an attetion module for tensorflow where you can just import the attention, check it out and contribute :
 
 https://github.com/monk1337/Tensorflow-Attention-mechanisms
 
