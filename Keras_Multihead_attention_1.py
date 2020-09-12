@@ -1,3 +1,9 @@
+
+import tensorflow as tf
+
+import time
+import numpy as np
+
 def scaled_dot_product_attention(q, k, v, mask):
   """Calculate the attention weights.
   q, k, v must have matching leading dimensions.
@@ -83,6 +89,3 @@ class MultiHeadAttention(tf.keras.layers.Layer):
     output = self.dense(concat_attention)  # (batch_size, seq_len_q, d_model)
         
     return output, attention_weights
-    
-    
-    
