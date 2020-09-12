@@ -3,7 +3,7 @@ This repository contain various types of attention mechanism like Bahdanau , Sof
 
 
 <p align="center">
-  <img width="850" src="/Images/ Bahdanau_attention.png">
+  <img width="550" src="/Images/ Bahdanau_attention.png">
 </p>
 
 ### Papers, research and study
