@@ -2,6 +2,17 @@
 This repository contain various types of attention mechanism like Bahdanau , Soft attention , Additive Attention , Hierarchical Attention etc
 
 
+<p align="center">
+  <img width="100" src="./Images/Bahdanau_attention.png">
+</p>
+
+### Papers, research and study
+|      Paper                 | Python Code  |
+| :-------------------- | :----------: |
+| | [Python Code ](https://github.com/monk1337/Various-Attention-mechanisms/blob/master/2.0-%20Bahdanau_attention.py) | [Research Paper] (https://arxiv.org/pdf/1409.0473.pdf)
+
+
+
 Luong attention and Bahdanau attention
 
 
