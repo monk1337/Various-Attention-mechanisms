@@ -1,5 +1,5 @@
 <h1 align="center">  Various-Attention-mechanisms </h1>
-This repository contain various types of attention mechanism like Bahdanau , Soft attention , Additive Attention , Hierarchical Attention etc
+This repository contain various types of attention mechanism like Bahdanau , Soft attention , Additive Attention , Hierarchical Attention etc in Pytorch & Tensorflow, Keras
 
 
 <p align="center">
